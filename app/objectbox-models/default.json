@@ -1,0 +1,110 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:7633272777716781673",
+      "lastPropertyId": "21:243116439246265362",
+      "name": "DemoObjectBox",
+      "properties": [
+        {
+          "id": "1:3746012464537595985",
+          "name": "_id"
+        },
+        {
+          "id": "2:8089986284694909639",
+          "name": "ownerid"
+        },
+        {
+          "id": "3:6382941397373882058",
+          "name": "sectionid"
+        },
+        {
+          "id": "4:1855602174673675239",
+          "name": "bookid"
+        },
+        {
+          "id": "5:7819083586442067203",
+          "name": "pageid"
+        },
+        {
+          "id": "6:7972263937709686418",
+          "name": "type"
+        },
+        {
+          "id": "7:2130874465941843626",
+          "name": "activityType"
+        },
+        {
+          "id": "8:6622567720941108442",
+          "name": "activityId"
+        },
+        {
+          "id": "9:7960673655657515225",
+          "name": "counter"
+        },
+        {
+          "id": "10:4702920406088275405",
+          "name": "x"
+        },
+        {
+          "id": "11:5005055171118438332",
+          "name": "y"
+        },
+        {
+          "id": "12:1838200791306691779",
+          "name": "ab_x"
+        },
+        {
+          "id": "13:7248359283439252411",
+          "name": "ab_y"
+        },
+        {
+          "id": "14:5317712018537807870",
+          "name": "fx"
+        },
+        {
+          "id": "15:4086890842968911232",
+          "name": "fy"
+        },
+        {
+          "id": "16:590297214231208716",
+          "name": "angle"
+        },
+        {
+          "id": "17:3703398073011954713",
+          "name": "force"
+        },
+        {
+          "id": "18:982628687965599491",
+          "name": "timelong"
+        },
+        {
+          "id": "19:2154429400655405966",
+          "name": "color"
+        },
+        {
+          "id": "20:5208678458086635808",
+          "name": "weight"
+        },
+        {
+          "id": "21:243116439246265362",
+          "name": "userId"
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:7633272777716781673",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 4,
+  "modelVersionParserMinimum": 4,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}
